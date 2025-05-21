@@ -47,8 +47,8 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rifky1292&show_icons=true&theme=radical" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifky1292&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rifaldy1292&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifaldy1292&layout=compact&theme=radical" />
 </p>
 
 <br><br><br><br><br><br><br><br><br><br><br>
@@ -58,5 +58,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rifky1292&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rifaldy1292&theme=radical&no-bg=true&no-frame=true" />
 </p>
