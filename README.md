@@ -47,7 +47,7 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rifky1292&show_icons=true&theme=radical" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernamekamu&layout=compact&theme=radical" />
 </p>
 
@@ -58,5 +58,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usernamekamu&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rifky1292&theme=radical&no-bg=true&no-frame=true" />
 </p>
